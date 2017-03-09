@@ -1,0 +1,42 @@
+What is a backend server? What are 3 good resources for understanding servers? 
+
+
+A backend Server is something people do not see. Its the code in the background that gives information and content to the front end.
+There is a layer that separates the frontend and the backend
+
+Resouces:
+https://www.youtube.com/watch?v=hAjGmZfsh50
+I think this Resouces because he talks to everyone. Seeing someone explain with examples makes for easy learning
+
+https://www.reference.com/technology/back-end-server-d4d0f1b851cd7424
+I like this resource because it gives a simple answer and then a more detailed answer which is still easy to follow.
+
+https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
+I like this resource because it not only explains the backend server, it explains the differences between them.
+This make it easier for me to know the difference between the too!
+
+SQL and noSQL, while researching this, I see there is a huge debate on this! from what I could tell there is no better one, just what the programmer wants to use.
+SQL does seem to be more popluar though but noSQL is making its way up!
+
+SQL are called Relational Databases (RDBMS) whereas 
+NoSQL database are primarily called as non-relational or distributed database.
+
+SQL uses rows and coloums to sort information like a table.
+NoSQL does not use a table to standardize information
+
+SQL databases have predefined schemas
+NoSQL does not have predefined schemas for unstructured data.
+
+
+
+
+
+Resources for SQL's:
+
+https://www.youtube.com/watch?v=Z-vsvu9YH7M
+This is actually a 3 part video but I always look to youtube first when trying to understand something.
+I learn best through examples and being shown as well and told about something. Thats what I like it when you record
+our lectures with your computer screen shared so I can see and hear!
+
+https://dev.mysql.com/doc/mysql-getting-started/en/
+I like this walk through as it is step by step and has LOTS of information!! I really appericate the detail and that it gives information for all operating systems.

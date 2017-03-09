@@ -1,0 +1,33 @@
+Where do you go to find help on javascript questions? Let’s say you want to find information on how promises work in ES6. What does that mean? Make a list of at least 3 resources you consulted in finding that answer.
+
+
+For  javascript questions I usually review the slides from class or go to w3schools. 
+I like w3schools because it gives you examples and lets you run the code. 
+Promises represent a value that we can handle at some point in the future. It tells us what we can handle in the future value.
+Mainly that it can not be undone, so like a failsafe.
+They give us a much better way to control synced programming at the same time.
+
+Resources:
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/
+http://www.datchley.name/es6-promises/
+
+
+
+Imagine you are working on a problem with using git to merge files from another contributor on your project. 
+What resources can you find to help you understand git merge? On your system, what editor gets launched to show merges? 
+How do you use it to edit text, save, and exit?
+
+I do not need to imagine this issue... it happened on project #2. It is easiest to communicate with eachother.
+PULL before you make changes and make sure to push up all changes. TALK To your team and make sure you aren't editing the same file.
+
+
+
+Resources for Git Merge:
+https://help.github.com/articles/merging-a-pull-request/
+https://help.github.com/articles/resolving-a-merge-conflict-on-github/
+https://www.youtube.com/watch?v=oFYyTZwMyAg
+
+Git mergetool launches to resolve merge conflicts after the merge.
+The tool will automatically edit texts with errors. 
+Then when it is closed it will save the changes.
